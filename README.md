@@ -5,6 +5,7 @@ Two Main Project
 
 1. EMS.PL -- Presentation Layer
     Program.cs -- Main File
+   OperationType.cs -- Enum 
 
    To Access EMS1.DAL Deatils You Have to Do project Refrence From EMS!.DAL to EMS.PL(Dependancies).
 
